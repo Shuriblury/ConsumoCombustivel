@@ -1,0 +1,7 @@
+C:\Users\Bruno\source\repos\TesteConsumoCombustivel\TesteConsumoCombustivel\obj\Debug\TesteConsumoCombustivel.csproj.AssemblyReference.cache
+C:\Users\Bruno\source\repos\TesteConsumoCombustivel\TesteConsumoCombustivel\obj\Debug\TesteConsumoCombustivel.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\source\repos\TesteConsumoCombustivel\TesteConsumoCombustivel\bin\Debug\TesteConsumoCombustivel.exe.config
+C:\Users\Bruno\source\repos\TesteConsumoCombustivel\TesteConsumoCombustivel\bin\Debug\TesteConsumoCombustivel.exe
+C:\Users\Bruno\source\repos\TesteConsumoCombustivel\TesteConsumoCombustivel\bin\Debug\TesteConsumoCombustivel.pdb
+C:\Users\Bruno\source\repos\TesteConsumoCombustivel\TesteConsumoCombustivel\obj\Debug\TesteConsumoCombustivel.exe
+C:\Users\Bruno\source\repos\TesteConsumoCombustivel\TesteConsumoCombustivel\obj\Debug\TesteConsumoCombustivel.pdb
